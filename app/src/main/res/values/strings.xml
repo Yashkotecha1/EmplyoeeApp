@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EmplyoeeApp</string>
+    <string name="add_emplyoee">Add Emplyoee</string>
+    <string name="show_emplyoee">Show Emplyoee</string>
+    <string name="first_name">First Name</string>
+    <string name="name">Name :</string>
+    <string name="enter_firstname">Enter Firstname</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_lastname">Enter Lastname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number">Enter Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="designation">Designation :</string>
+    <string name="phone">Phone :</string>
+    <string name="l_name">lastname</string>
+    <string name="last_name_lab">Last Name :</string>
+    <string name="search_by">Search By</string>
+    <string name="enter_here">Enter Here</string>
+
+    <string-array name="planets_array">
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Designation</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
